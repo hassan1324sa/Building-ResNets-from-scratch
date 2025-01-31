@@ -92,9 +92,9 @@ Custom datasets (see data/README.md for setup).
 Results 📊
 CIFAR-10 Accuracy (Top-1)
 Model	Accuracy (%)	Parameters (M)	Training Time (hrs)
-ResNet-18	94.8	11.2	1.2
-ResNet-34	95.3	21.3	2.1
-ResNet-50	95.6	23.5	3.5
+- ResNet-18	94.8	11.2	1.2
+- ResNet-34	95.3	21.3	2.1
+- ResNet-50	95.6	23.5	3.5
 
 Contributing 🤝
 Contributions are welcome! Follow these steps:
